@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(74, 143, 207);
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    margin: 20px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+table {
+    border: 1px solid black;
+    width: 50%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+<link rel="stylesheet" href="citypage.css">
